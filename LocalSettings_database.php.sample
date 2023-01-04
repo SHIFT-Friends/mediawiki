@@ -1,0 +1,18 @@
+<?php
+
+## Database settings
+$wgDBtype = "mysql";
+$wgDBserver = "127.0.0.1";
+$wgDBname = "your_wiki_db_name";
+$wgDBuser = "your_wiki_user_name";
+$wgDBpassword = "your_wiki_password";
+
+# MySQL specific settings
+$wgDBprefix = "";
+
+# MySQL table options to use during installation or update
+$wgDBTableOptions = "ENGINE=InnoDB, DEFAULT CHARSET=binary";
+
+# Shared database table
+# This has no effect unless $wgSharedDB is also set.
+$wgSharedTables[] = "actor";
