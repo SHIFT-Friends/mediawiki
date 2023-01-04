@@ -134,3 +134,35 @@
 	path = vendor
 	url = https://gerrit.wikimedia.org/r/mediawiki/vendor
 	branch = REL1_39
+[submodule "extensions/AntiSpoof"]
+	path = extensions/AntiSpoof
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/AntiSpoof
+	branch = REL1_39
+[submodule "extensions/Cargo"]
+	path = extensions/Cargo
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Cargo
+	branch = REL1_39
+[submodule "extensions/CodeMirror"]
+	path = extensions/CodeMirror
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/CodeMirror
+	branch = REL1_39
+[submodule "extensions/JsonConfig"]
+	path = extensions/JsonConfig
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/JsonConfig
+	branch = REL1_39
+[submodule "extensions/MobileFrontend"]
+	path = extensions/MobileFrontend
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/MobileFrontend
+	branch = REL1_39
+[submodule "extensions/SmiteSpam"]
+	path = extensions/SmiteSpam
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/SmiteSpam
+	branch = REL1_39
+[submodule "extensions/TemplateStyles"]
+	path = extensions/TemplateStyles
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/TemplateStyles
+	branch = REL1_39
+[submodule "extensions/TorBlock"]
+	path = extensions/TorBlock
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/TorBlock
+	branch = REL1_39
